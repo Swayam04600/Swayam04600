@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/getintorj/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=FRONT-END%20DEVELOPER%20;BACK-END%20DEVELOPER%20;ARTIFICIAL%20INTELLIGENCE%20(AI);MACHINE%20LEARNING%20(ML);PYTHON%20PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
-  <a href="https://github.com/Jatin083">
+  <a href="https://github.com/Swayam04600">
     <img src="contribution.svg" />
   </a>
 </p>
