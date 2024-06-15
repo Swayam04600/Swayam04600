@@ -33,11 +33,11 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/Swayam04600/count.svg"/> </br></br>
 📊 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂 <b>:</b>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin083&theme=shadow_blue&layout=compact"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam04600&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 
 
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dzqzuljun/image/upload/v1695825800/Karannkxgf.gif">
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dzqzuljun/image/upload/v1695825800/Swayam04600.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swayam04600&label=Profile%20views&color=0e75b6&style=flat" alt="Swayam04600" /> </p>
 
 # 💫 About Me:
