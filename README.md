@@ -11,18 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://media.licdn.com/dms/image/D5616AQGsRK2v-umXRw/profile-displaybackgroundimage-shrink_350_1400/0/1714716108781?e=1720051200&v=beta&t=SJOytkp_Tjdnr-a-a6NR-HIAhzdw22Hsndm9ajixrh0)
 <h1 align="center">Hi 👋, I'm Swayam</h1>
 <!-- <h3 align="center">Full Stack Web Developer</h3> -->
 
 
 
 <p align="center">
-  <a href="https://github.com/getintorj/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=FRONT-END%20DEVELOPER%20;BACK-END%20DEVELOPER%20;ARTIFICIAL%20INTELLIGENCE%20(AI);MACHINE%20LEARNING%20(ML);PYTHON%20PROGRAMMER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
   <a href="https://github.com/Swayam04600">
-    <img src="contribution.svg" />
   </a>
 </p>
 
