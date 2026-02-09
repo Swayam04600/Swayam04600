@@ -46,7 +46,7 @@ A complete end-to-end manual testing project performed on the OpenCart web appli
 * Validation Testing
 * Usability Testing
 
-🔗 Repository: [https://github.com/Swayam04600/OpenCart-Manual-Testing-Project](https://github.com/Swayam04600/OpenCart-Manual-Testing-Project)
+🔗 Repository: [https://github.com/Swayam04600/OpenCart-Manual-Testing-Project](https://github.com/Swayam04600/OpenCart-ManualTesting-User-End)
 
 **Project Deliverables**
 
