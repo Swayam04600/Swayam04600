@@ -16,7 +16,8 @@
 * Interested in finding defects, improving usability, and ensuring reliable releases
 
 📫 Contact: **[swayamuniyal0@gmail.com](mailto:swayamuniyal0@gmail.com)**
-🔗 LinkedIn: [https://in.linkedin.com/in/swayamuniyal](https://in.linkedin.com/in/swayamuniyal)
+🔗 LinkedIn: [https://www.linkedin.com/in/swayamuniyal/](https://www.linkedin.com/in/swayamuniyal/)
+
 
 
 ---
