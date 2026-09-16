@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swayam Uniyal</h1>
-<h3 align="center">Software Test Engineer (Manual QA) | Entry Level</h3>
+<h3 align="center">Software Test Engineer | Entry Level</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Software%20Testing%20Enthusiast;Manual%20Testing%20%7C%20Bug%20Reporting;Test%20Case%20Design%20%7C%20STLC%20%7C%20SDLC;E-commerce%20Application%20Testing%20(OpenCart);Functional%20%26%20Negative%20Testing&font=fira%20Code&center=true&width=500&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Software%20Testing;Manual%20Testing%20%7C%20Bug%20Reporting;Test%20Case%20Design%20%7C%20STLC%20%7C%20SDLC;E-commerce%20Application%20Testing%20(OpenCart);Functional%20%26%20Negative%20Testing&font=fira%20Code&center=true&width=500&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
