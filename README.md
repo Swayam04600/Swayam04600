@@ -107,7 +107,7 @@ Bugs were documented with:
 
 * API Testing
 * SQL for Testers
-* Basic Automation (Selenium - upcoming)
+* Automation (Playwright - upcoming)
 
 ---
 
